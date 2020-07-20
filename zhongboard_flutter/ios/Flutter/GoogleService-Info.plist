@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>693495625930-5h4mf0a92gl0s384lcac5mj945chlsml.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.693495625930-5h4mf0a92gl0s384lcac5mj945chlsml</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIn-GzwGSH22_jLZRyFFNy8OOJeuIm94w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>693495625930</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jonathenscalet.zhongboard</string>
+	<key>PROJECT_ID</key>
+	<string>zhong-board</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zhong-board.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:693495625930:ios:268f2d72df1b7dffa8dc33</string>
+	<key>DATABASE_URL</key>
+	<string>https://zhong-board.firebaseio.com</string>
+</dict>
+</plist>

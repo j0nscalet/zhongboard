@@ -1,0 +1,12 @@
+[submodule "libpinyin"]
+	path = libpinyin
+	url = https://github.com/libpinyin/libpinyin
+[submodule "keyboards/giellakbd-ios"]
+	path = keyboards/giellakbd-ios
+	url = https://github.com/divvun/giellakbd-ios
+[submodule "keyboards/akifkeyboard"]
+	path = keyboards/akifkeyboard
+	url = https://github.com/cemheren/akifkeyboard.git
+[submodule "keyboards/tasty-imitation-keyboard"]
+	path = keyboards/tasty-imitation-keyboard
+	url = https://github.com/archagon/tasty-imitation-keyboard.git
